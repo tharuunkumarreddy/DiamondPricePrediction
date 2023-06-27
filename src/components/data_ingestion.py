@@ -67,4 +67,7 @@ class DataIngestion:     # here we give data ingestion config
 
 
 ## Now in order to test this above one we can test it in the same folder location and all 
-# we can open our pipelines/training_pipelines as data_ingestion is part of trainging pipeline 
+# we can open our pipelines/training_pipelines as data_ingestion is part of training pipeline and we cna enter our info 
+
+# for runnig the data_ingestion run the command    python src/pipelines/training_pipeline.py
+# now we even get some logs folder 
